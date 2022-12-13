@@ -7,4 +7,4 @@ Kodi i ri:
 
 ## Contact me
 
-[my email](mail%20to:%20meloss.berisha@gmail.com)
+[my email](mailto:meloss.berisha@gmail.com)
